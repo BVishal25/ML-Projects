@@ -59,4 +59,5 @@ Where:
 The partial derivatives are calculated as:
 
 ∂J(w, b)/∂w = (1 / m) * Σ[i=1 to m] (f_w,b(x^(i)) - y^(i)) * x^(i)
+
 ∂J(w, b)/∂b = (1 / m) * Σ[i=1 to m] (f_w,b(x^(i)) - y^(i))
