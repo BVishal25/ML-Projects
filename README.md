@@ -46,6 +46,7 @@ Gradient descent is an iterative optimization algorithm used to minimize the cos
 The update rules for `w` and `b` are:
 
 w := w - α * ∂J(w, b)/∂w
+
 b := b - α * ∂J(w, b)/∂b
 
 
